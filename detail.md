@@ -11,7 +11,7 @@
 <li>strategy</li>
 <li>Singleton</li>
 <li>Bridge</li>
-<li>Template</li>
+<li>template</li>
 <li>Adapter</li>
 <li>Flyweight</li>
 <li>Composite</li>
@@ -55,6 +55,7 @@
 ### 어댑터(Adapter)
 <summary>클래스의 인터페이스를 다른 인터페이스로 변환하여 다른 클래스가 이용할 수 있도록 함
 </summary>
+<img src="adapter.png"/>
 
 ### 브리지(Bridge)
 <summary>구현부에서 추상층을 분리하여 각자 독립적으로 확장할 수 있게 함
@@ -118,9 +119,10 @@
 </summary>
 <img src="strategy.png">
 
-### 템플릿 메소드(Template Method)
+### 템플릿 메소드(template Method)
 <summary>상위클래스는 알고리즘의 골격만을 작성하고 구체적인 처리는 서브클래스로 위임함
 </summary>
+<img src="template.png">
 
 ### 방문자(Visitor)
 <summary>객체의 원소에 대해 수행할 연산을 분리하여 별도의 클래스로 구성함
