@@ -60,6 +60,7 @@
 ### 브리지(Bridge)
 <summary>구현부에서 추상층을 분리하여 각자 독립적으로 확장할 수 있게 함
 </summary>
+<img src="bridge.png"/>
 
 ### 컴포지트(Composite)
 <summary>객체들의 관계를 트리 구조로 구성하여 복합 객체와 단일 객체를 구분없이 다룸
