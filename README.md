@@ -13,7 +13,7 @@
 <li>Bridge</li>
 <li>template</li>
 <li>Adapter</li>
-<li>Flyweight</li>
+<li>flyweight</li>
 <li>Composite</li>
 <li>Factory Method</li>
 <li>Observer</li>
@@ -50,6 +50,7 @@
 ### 싱글톤(Singleton)
 <summary>어떤 클래스의 인스턴스는 하나임을 보장하고 어디서든 참조할 수 있도록 함
 </summary>
+<img src ="singleton.png"/>
 
 # 구조 패턴
 ### 어댑터(Adapter)
@@ -74,7 +75,7 @@
 <summary>서브시스템에 있는 인터페이스 집합에 대해 하나의 통합된 인터페이스(Wrapper) 제공
 </summary>
 
-### 플라이웨이트(Flyweight)
+### 플라이웨이트(flyweight)
 <summary>크기가 작은 여러 개의 객체를 매번 생성하지 않고 가능한 한 공유할 수 있도록 하여 메모리를 절약함
 </summary>
 

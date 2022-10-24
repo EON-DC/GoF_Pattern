@@ -1,5 +1,6 @@
 import adapter.AdapterMain;
 import bridge.BridgeMain;
+import flyweight.FlyweightMain;
 import singleton.SingletonMain;
 import template.TemplateMain;
 
@@ -10,6 +11,7 @@ public class MainEntry {
 //        TemplateMain.doGof();
 //        AdapterMain.doGof();
 //        BridgeMain.doGof();
-        SingletonMain.doGof();
+//        SingletonMain.doGof();
+        FlyweightMain.doGof();
     }
 }
