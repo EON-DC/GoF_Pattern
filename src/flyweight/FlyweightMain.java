@@ -4,12 +4,12 @@ import bridge.*;
 
 public class FlyweightMain {
     public static void doGof(){
-        System.out.println("==== BridgeMain.doGof start ====");
+        System.out.println("==== FlyweightMain.doGof start ====");
         Number number = new Number(434331);
-        number.print(5, 5);
+        number.print(20, 8);
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println("==== BridgeMain.doGof end ====");
+        System.out.println("==== FlyweightMain.doGof end ====");
     }
 }
