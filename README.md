@@ -111,7 +111,7 @@
 ### 옵서버(Observer)
 <summary>객체 상태가 변할 때 관련 객체들이 그 변화를 통지받고 자동으로 갱신될 수 있게 함
 </summary>
-
+<img src="observer.png">
 ### 상태(State)
 <summary>객체의 상태에 따라 동일한 동작을 다르게 처리해야할 때 사용
 </summary>
