@@ -103,6 +103,7 @@
 ### 중재자(Mediator)
 <summary>한 집합에 속해있는 객체들의 상호작용을 캡슐화하여 새로운 객체로 정의
 </summary>
+<img src="mediator.png">
 
 ### 메멘토(Memento)
 <summary>객체가 특정 상태로 다시 되돌아올 수 있도록 내부 상태를 실체화

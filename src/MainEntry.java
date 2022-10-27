@@ -2,6 +2,8 @@ import adapter.AdapterMain;
 import bridge.BridgeMain;
 import factory.FactoryMain;
 import flyweight.FlyweightMain;
+import mediator.Mediator;
+import mediator.MediatorMain;
 import observer.ObserverMain;
 import singleton.SingletonMain;
 import template.TemplateMain;
@@ -16,6 +18,7 @@ public class MainEntry {
 //        SingletonMain.doGof();
 //        FlyweightMain.doGof();
 //        FactoryMain.doGof();
-        ObserverMain.doGof();
+//        ObserverMain.doGof();
+        MediatorMain.doGof();
     }
 }
