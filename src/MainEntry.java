@@ -4,6 +4,7 @@ import factory.FactoryMain;
 import flyweight.FlyweightMain;
 import mediator.Mediator;
 import mediator.MediatorMain;
+import memento.MementoMain;
 import observer.ObserverMain;
 import singleton.SingletonMain;
 import template.TemplateMain;
@@ -19,6 +20,7 @@ public class MainEntry {
 //        FlyweightMain.doGof();
 //        FactoryMain.doGof();
 //        ObserverMain.doGof();
-        MediatorMain.doGof();
+//        MediatorMain.doGof();
+        MementoMain.doGof();
     }
 }
