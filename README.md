@@ -91,6 +91,7 @@
 ### 책임 연쇄(Chain of Responsibility)
 <summary>요청을 받는 객체를 연쇄적으로 묶어 요청을 처리하는 객체를 만날 때까지 객체 Chain을 따라 요청을 전달함
 </summary>
+<img src="chain_of_responsibility.png">
 
 ### 커맨드(Command)
 <summary>요청을 객체의 형태로 캡슐화하여 재사용하거나 취소할 수 있도록 저장함

@@ -1,3 +1,4 @@
+import ChainOfResponsibility.ChainOfResponsibilityMain;
 import adapter.AdapterMain;
 import bridge.BridgeMain;
 import factory.FactoryMain;
@@ -21,6 +22,7 @@ public class MainEntry {
 //        FactoryMain.doGof();
 //        ObserverMain.doGof();
 //        MediatorMain.doGof();
-        MementoMain.doGof();
+//        MementoMain.doGof();
+        ChainOfResponsibilityMain.doGof();
     }
 }
