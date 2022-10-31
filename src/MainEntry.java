@@ -7,6 +7,7 @@ import mediator.Mediator;
 import mediator.MediatorMain;
 import memento.MementoMain;
 import observer.ObserverMain;
+import prototype.PrototypeMain;
 import singleton.SingletonMain;
 import template.TemplateMain;
 
@@ -23,6 +24,7 @@ public class MainEntry {
 //        ObserverMain.doGof();
 //        MediatorMain.doGof();
 //        MementoMain.doGof();
-        ChainOfResponsibilityMain.doGof();
+//        ChainOfResponsibilityMain.doGof();
+        PrototypeMain.doGof();
     }
 }

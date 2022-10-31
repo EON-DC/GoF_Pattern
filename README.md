@@ -46,6 +46,7 @@
 
 ### 프로토타입(Prototype)
 <summary>원본 객체를 복사함으로써 객체를 생성함</summary>
+<img src="prototype.png">
 
 ### 싱글톤(Singleton)
 <summary>어떤 클래스의 인스턴스는 하나임을 보장하고 어디서든 참조할 수 있도록 함
