@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package chain_of_responsibility;
 
 public class ChainOfResponsibilityMain {
     public static void doGof(){

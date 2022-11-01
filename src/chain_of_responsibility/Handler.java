@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package chain_of_responsibility;
 
 public abstract class Handler {
     protected Handler nextHandler = null;

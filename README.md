@@ -20,7 +20,7 @@
 <li>Mediator</li>
 <li>Memento</li>
 <li>Proxy</li>
-<li>Decorator</li>
+<li>decorator</li>
 <li>Chain of Responsibility</li>
 <li>Prototype</li>
 <li>Facade</li>
@@ -68,13 +68,14 @@
 <summary>객체들의 관계를 트리 구조로 구성하여 복합 객체와 단일 객체를 구분없이 다룸
 </summary>
 
-### 데코레이터(Decorator)
+### 데코레이터(decorator)
 <summary>주어진 상황 및 용도에 따라 어떤 객체에 다른 객체를 덧붙이는 방식
 </summary>
 
 ### 퍼싸드(Facade)
 <summary>서브시스템에 있는 인터페이스 집합에 대해 하나의 통합된 인터페이스(Wrapper) 제공
 </summary>
+<img src="facade.png">
 
 ### 플라이웨이트(flyweight)
 <summary>크기가 작은 여러 개의 객체를 매번 생성하지 않고 가능한 한 공유할 수 있도록 하여 메모리를 절약함
